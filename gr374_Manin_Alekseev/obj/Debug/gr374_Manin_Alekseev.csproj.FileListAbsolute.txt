@@ -1,0 +1,9 @@
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\bin\Debug\gr374_Manin_Alekseev.exe.config
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\bin\Debug\gr374_Manin_Alekseev.exe
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\bin\Debug\gr374_Manin_Alekseev.pdb
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.Form1.resources
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.Properties.Resources.resources
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.csproj.GenerateResource.Cache
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.exe
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.pdb
+C:\Users\user01\Desktop\Ярик и Игорь\gr374_Manin_Alekseev\obj\Debug\gr374_Manin_Alekseev.csprojResolveAssemblyReference.cache
